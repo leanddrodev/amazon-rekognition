@@ -7,24 +7,16 @@ O Amazon Rekognition é um serviço de análise visual baseado em deep learning 
 
 # Imagens Selecionadas
 
-![lista-material-escolar](https://github.com/user-attachments/assets/1c41aa9f-82d3-4f0b-90d4-92a59ea520cd)
+![bbc](https://github.com/user-attachments/assets/671c39ee-1684-431a-8b09-6d1f3a143872)
+
+![msn](https://github.com/user-attachments/assets/09b05ebb-4aef-44a1-956e-48c06922346d)
+
+![neymar-torcedores](https://github.com/user-attachments/assets/12e5b804-949a-408f-91d2-6793207de9bf)
 
 # Imagens Seleciondas - Celebridades Detectadas
 
-Lista de Material Escolar<br>
-.3 rolos de fita crepe<br>
-.1 bloco de canson A4<br>
-.1 fita adesiva<br>
-.5 folhas de cartolina<br> 
-.3 placas de EVA<br>
-.1 EVA com gliter<br>
-.5 papel colorset<br>
-.1 caneta permanente<br>
-.1 pacote palito de sorvete<br>
-.4 papel cartão<br>
-.1 kit leoni n. 1<br>
-.1 dicionário<br>
-.1 pincel n.14<br>
-.1 pasta 20mm<br>
+![bbc-resultado](https://github.com/user-attachments/assets/e5a09944-78fa-46b2-a52e-6baa3defa939)
 
-![Captura de tela 2025-01-04 203447](https://github.com/user-attachments/assets/ca54ff1a-4fc9-42b0-8aa3-0fa9ee997964)
+![msn-resultado](https://github.com/user-attachments/assets/c4c64e15-3313-4c2e-a2e9-436c85be0b08)
+
+![neymar-torcedores-resultado](https://github.com/user-attachments/assets/6d3e01c0-bcd5-4921-ac06-531b44d0f077)
