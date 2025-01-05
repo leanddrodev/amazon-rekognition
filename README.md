@@ -7,6 +7,8 @@ O Amazon Rekognition é um serviço de análise visual baseado em deep learning 
 
 # Imagens Selecionadas
 
+Imagens antes do Amazon Rekognition fazer a análise de detecção de celebridades.
+
 ## Imagem 1
 ![bbc](https://github.com/user-attachments/assets/671c39ee-1684-431a-8b09-6d1f3a143872)
 
@@ -18,6 +20,8 @@ O Amazon Rekognition é um serviço de análise visual baseado em deep learning 
 
 
 # Celebridades Detectadas
+
+Resultado depois do Amazon Rekognition processar as imagens e detectar as celebridades.
 
 ## Imagem 1
 ![bbc-resultado](https://github.com/user-attachments/assets/e5a09944-78fa-46b2-a52e-6baa3defa939)
