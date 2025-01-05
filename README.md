@@ -5,11 +5,11 @@ Esse desafio faz parte do **Bootcamp Nexa - Análise Avançada de Imagens e Text
 O Amazon Rekognition é um serviço de análise visual baseado em deep learning para pesquisar, verificar e organizar milhões de imagens e vídeos.
 
 
-# Lista Escolar - Imagem
+# Imagens Selecionadas
 
 ![lista-material-escolar](https://github.com/user-attachments/assets/1c41aa9f-82d3-4f0b-90d4-92a59ea520cd)
 
-# Lista Escolar - Saída em Texto
+# Imagens Seleciondas - Celebridades Detectadas
 
 Lista de Material Escolar<br>
 .3 rolos de fita crepe<br>
