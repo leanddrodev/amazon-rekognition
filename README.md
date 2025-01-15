@@ -1,6 +1,6 @@
 # Amazon Rekognition - Detectando Celebridades em Imagens (Celebrity Recognition)
 
-Estee projeto faz parte do **Bootcamp Nexa - Análise Avançada de Imagens e Texto com IA na AWS**. O objetivo é reconhecer dentre várias faces as celebridades correspondentes. Para isso, será usado o SDK AWS para Python (Boto3) para trabalhar com o Amazon Rekognition.
+Este projeto faz parte do **Bootcamp Nexa - Análise Avançada de Imagens e Texto com IA na AWS**. O objetivo é reconhecer dentre várias faces as celebridades correspondentes. Para isso, será usado o SDK AWS para Python (Boto3) para trabalhar com o Amazon Rekognition.
 
 O Amazon Rekognition é um serviço de análise visual baseado em deep learning para pesquisar, verificar e organizar milhões de imagens e vídeos.
 
